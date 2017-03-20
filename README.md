@@ -79,6 +79,12 @@
 
 ## Software
 
+
+### Online Tools
+
+* [planning.domains](http://planning.domains/)
+A collection of tools for working with planning domains. Tutorial available at [https://www.youtube.com/watch?v=hPoWf-cKSww](https://www.youtube.com/watch?v=hPoWf-cKSww). Source code available at [https://bitbucket.org/planning-researchers/cloud-solver](https://bitbucket.org/planning-researchers/cloud-solver).
+
 ### Parsers
 
 * [PDDL-pp](https://github.com/thiagopbueno/pddlparser-pp)
