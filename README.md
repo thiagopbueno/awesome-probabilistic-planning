@@ -87,7 +87,9 @@ A collection of tools for working with planning domains. Tutorial available at [
 
 ### Parsers
 
+* [Universal PDDL-parser](https://github.com/aig-upf/universal-pddl-parser)
 * [PDDL-pp](https://github.com/thiagopbueno/pddlparser-pp)
+
 
 ### Planners
 
@@ -95,6 +97,9 @@ A collection of tools for working with planning domains. Tutorial available at [
 
 * [Lightweight Automated Planning Toolkit](https://github.com/LAPKT-dev/LAPKT-public)
 LAPKT stands for the **Lightweight Automated Planning ToolKiT**. It aims to make your life easier if your purpose is to create, use or extend basic to advanced Automated Planners. It's an open-source Toolkit written in C++ and Python with simple interfaces that give you complete flexibility by decoupling parsers from problem representations and algorithms.
+
+* [Automated Programming Framework](http://aig-upf.github.io/)
+This is the main software repository of the Artificial Intelligence and Machine Learning Research Group at Universitat Pompeu Fabra, Barcelona, Spain. The Automated Programming Framework includes the code necessary to configure and execute different compilations related to the formalisms of Planning Programs and Hierarchical Finite State Controllers. 
 
 * [FastDownward (FD)](http://www.fast-downward.org/HomePage)
 Helmert, Malte. **The Fast Downward Planning System.** J. Artif. Intell. Res.(JAIR) 26 (2006): 191-246.
@@ -110,6 +115,9 @@ Kautz, Henry, and Bart Selman. **Unifying SAT-based and graph-based planning.** 
 
 #### Probabilistic
 
+* [MDP-engine](https://github.com/bonetblai/mdp-engine)
+Implementation of different algorithms and policies for solving MDPs.
+
 * [G-Pack](https://github.com/arian/G-pack-2.0)
 G-pack is a software package for planning under uncertainty that currently implements: **LR^2TDP** (Reverse Iterative Deepening LRTDP), **Glutton**, the runner-up at the 2011 International Probabilistic Planning Competition (IPPC-2011), essentially a beefed-up offline version of LR^2TDP; and **Gourmand**, an online version of Glutton. Because planning offline isn't feasible for large MDPs, Gourmand tends to outperform Glutton on such problems.
 
@@ -119,6 +127,9 @@ Keller, Thomas, and Patrick Eyerich. **PROST: Probabilistic Planning Based on UC
 * [SPUDD](https://cs.uwaterloo.ca/~jhoey/research/spudd/index.php)
 Hoey, Jesse, Robert St-Aubin, Alan Hu, and Craig Boutilier. **SPUDD: Stochastic planning using decision diagrams.** In Proceedings of the Fifteenth conference on Uncertainty in artificial intelligence, pp. 279-288. Morgan Kaufmann Publishers Inc., 1999.
 
+* [MDP-ProbLog](https://github.com/thiagopbueno/mdp-problog)
+Bueno, Thiago P., Denis D. Mauá, Leliane N. de Barros, and Fabio G. Cozman. **Markov Decision Processes Specified by Probabilistic Logic Programming: Representation and Solution.** In Intelligent Systems (BRACIS), 2016 5th Brazilian Conference on, pp. 337-342. IEEE, 2016.
+
 ### Simulators
 
 * [RDDLSim](https://github.com/ssanner/rddlsim)
@@ -127,6 +138,10 @@ Implements a parser, simulator, and client/server evaluation architecture for th
 ### Libraries
 
 * [Colorado University Decision Diagrams (CUDD)](http://vlsi.colorado.edu/~fabio/CUDD/html/)
+
+* [List of BDD packages](https://github.com/johnyf/tool_lists/blob/master/bdd.md)
+
+* [pyddlib](https://github.com/thiagopbueno/pyddlib)
 
 
 ## Tutorials
