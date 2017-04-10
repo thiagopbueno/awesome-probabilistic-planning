@@ -147,6 +147,8 @@ Implements a parser, simulator, and client/server evaluation architecture for th
 
 ## Tutorials
 
+* [ICAPS 2016: Planning under Uncertainty (part 1), Scott Sanner](https://www.youtube.com/watch?v=IVmXLsa-Usc&index=5&list=PLj-ZdQ5rfSEpnsOfJeG7UfheAuZ42tEOM)
+
 * [Probabilistic Planning with Markov Decision Processes, Andrey Kolobov and Mausam](https://homes.cs.washington.edu/~mausam/papers/tut12b.pdf)
 
 * [Advanced Introduction to Planning: Models and Methods, Hector Geffner](http://www.dtic.upf.edu/~hgeffner/tutorial-ijcai-2011.pdf)
