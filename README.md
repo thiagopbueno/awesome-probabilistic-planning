@@ -70,6 +70,7 @@
 * [Automated Planning and Control Group at the University of Washington](https://www.cs.washington.edu/research/ai/automated_planning_control)
 * [Decision-theoretic Planning and Learning in The Artificial Intelligence Group at the University of Waterloo](http://ai.uwaterloo.ca/)
 * [Foundations of Artificial Intelligence (FAI) Group](https://fai.cs.uni-saarland.de/research.html)
+* [Foundations of Artificial Intelligence University of Freiburg, Germany](http://gki.informatik.uni-freiburg.de/)
 * [Planning and Activity Management Group within the Artificial Intelligence Applications Institute (AIAI) in the School of Informatics at the University of Edinburgh](http://www.aiai.ed.ac.uk/project/plan/)
 * [Planning Research Group in the Department of Informatics at King's College London](http://nms.kcl.ac.uk/planning/)
 * [Planning, Cognitive Robotics and Applications Research Group in LIAMF Group at the University of São Paulo, Brazil](https://www.ime.usp.br/~liamf/)
