@@ -39,7 +39,7 @@
 
 * Boutilier, Craig, Thomas Dean, and Steve Hanks. **Decision-theoretic planning: Structural assumptions and computational leverage.** Journal of Artificial Intelligence Research 11, no. 1 (1999): 94.
 
-* Dean, Thomas, and Keiji Kanazawa. **A model for reasoning about persistence and causation.**Computational intelligence 5, no. 2 (1989): 142-150.
+* Dean, Thomas, and Keiji Kanazawa. **A model for reasoning about persistence and causation.** Computational intelligence 5, no. 2 (1989): 142-150.
 
 * Howard, Ronald A. **Comments on the origin and application of Markov decision processes.** Operations Research 50, no. 1 (2002): 100-102.
 
@@ -52,7 +52,7 @@
 
 * Edelkamp, Stefan. **Heuristic Search Planning with BDDs.** In PuK. 2000.
 
-* Hansen, Eric A., and Shlomo Zilberstein. **LAO*: A heuristic search algorithm that finds solutions with loops.** Artificial Intelligence 129, no. 1-2 (2001): 35-62.
+* Hansen, Eric A., and Shlomo Zilberstein. **LAO\*: A heuristic search algorithm that finds solutions with loops.** Artificial Intelligence 129, no. 1-2 (2001): 35-62.
 
 * Bonet, Blai, and Hector Geffner. **Labeled RTDP: Improving the Convergence of Real-Time Dynamic Programming.** In ICAPS, vol. 3, pp. 12-21. 2003.
 
