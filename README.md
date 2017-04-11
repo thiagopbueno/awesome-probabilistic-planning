@@ -153,6 +153,8 @@ Implements a parser, simulator, and client/server evaluation architecture for th
 
 * [Advanced Introduction to Planning: Models and Methods, Hector Geffner](http://www.dtic.upf.edu/~hgeffner/tutorial-ijcai-2011.pdf)
 
+* [Probabilistic Planning, Blai Bonet](https://bonetblai.github.io/tutorials/uc3m_2012_probabilistic_planning.pdf)
+
 
 ## License
 
