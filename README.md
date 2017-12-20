@@ -1,6 +1,6 @@
-# Planning Resources Roadmap
+# Awesome Probabilistic Planning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of online resources for people starting research in Probabilistic and Automated Planning in Artificial Intelligence.
+> A curated list of online resources for people starting research in Probabilistic Planning in Artificial Intelligence.
 
 
 ## Table of Contents
