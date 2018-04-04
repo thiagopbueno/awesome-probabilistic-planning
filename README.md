@@ -1,6 +1,6 @@
 # Awesome Probabilistic Planning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of online resources for people starting research in Probabilistic Planning in Artificial Intelligence.
+> A curated list of resources for people starting to research in Probabilistic Planning in Artificial Intelligence.
 
 
 ## Table of Contents
@@ -46,7 +46,6 @@
 * Browne, Cameron B., Edward Powley, Daniel Whitehouse, Simon M. Lucas, Peter I. Cowling, Philipp Rohlfshagen, Stephen Tavener, Diego Perez, Spyridon Samothrakis, and Simon Colton. **A survey of monte carlo tree search methods.** IEEE Transactions on Computational Intelligence and AI in games 4, no. 1 (2012): 1-43.
 
 * Guestrin, Carlos, Daphne Koller, Ronald Parr, and Shobha Venkataraman. **Efficient solution algorithms for factored MDPs.** Journal of Artificial Intelligence Research 19 (2003): 399-468.
-
 
 * Trevizan, Felipe W., Fabio Gagliardi Cozman, and Leliane Nunes de Barros. **Planning under Risk and Knightian Uncertainty.** In IJCAI, vol. 2007, pp. 2023-2028. 2007.
 
@@ -128,8 +127,8 @@ Keller, Thomas, and Patrick Eyerich. **PROST: Probabilistic Planning Based on UC
 * [SPUDD](https://cs.uwaterloo.ca/~jhoey/research/spudd/index.php)
 Hoey, Jesse, Robert St-Aubin, Alan Hu, and Craig Boutilier. **SPUDD: Stochastic planning using decision diagrams.** In Proceedings of the Fifteenth conference on Uncertainty in artificial intelligence, pp. 279-288. Morgan Kaufmann Publishers Inc., 1999.
 
-* [MDP-ProbLog](https://github.com/thiagopbueno/mdp-problog)
-Bueno, Thiago P., Denis D. Mauá, Leliane N. de Barros, and Fabio G. Cozman. **Markov Decision Processes Specified by Probabilistic Logic Programming: Representation and Solution.** In Intelligent Systems (BRACIS), 2016 5th Brazilian Conference on, pp. 337-342. IEEE, 2016.
+* [FPG](http://fpg.loria.fr/wiki/index.html)
+Buffet, Olivier, and Douglas Aberdeen. **The factored policy-gradient planner.** Artificial Intelligence 173, no. 5-6 (2009): 722-747.
 
 ### Simulators
 
@@ -141,8 +140,6 @@ Implements a parser, simulator, and client/server evaluation architecture for th
 * [Colorado University Decision Diagrams (CUDD)](http://vlsi.colorado.edu/~fabio/CUDD/html/)
 
 * [List of BDD packages](https://github.com/johnyf/tool_lists/blob/master/bdd.md)
-
-* [pyddlib](https://github.com/thiagopbueno/pyddlib)
 
 
 ## Tutorials
